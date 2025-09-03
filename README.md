@@ -1,9 +1,10 @@
 
-```markdown
-<p align="center">
-  <img src="assets/banner.png" alt="UniStore Banner" width="100%">
-</p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohi0611/UNISTORE/main/assets/unistore-banner.png" alt="UniStore Banner" width="100%">
+</p>
+```
 # 🛍️ UniStore – Responsive E-Commerce Website
 
 UniStore is a fully responsive **e-commerce website** built with **HTML, CSS, and JavaScript**.  
@@ -19,12 +20,12 @@ It provides a simple online store experience with product listings, a shopping c
 - 👤 **User Authentication Pages** – Sign-in and sign-up forms.  
 - 📚 **School Supplies Store** – Books, bags, shoes, and more.  
 - 💬 **Review Section** – Displays sample customer feedback.  
-
+```
 ---
 
 ## 🗂️ Project Structure
 ```
-
+```
 UNISTORE/
 │── index.html          # Homepage
 │── about.html          # About page
@@ -39,7 +40,7 @@ UNISTORE/
 │── products.js         # Product listing script
 │── assets/             # Banner image, logos, and product images
 
-````
+```
 
 ---
 
@@ -49,18 +50,8 @@ UNISTORE/
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your homepage, product page, and cart here)
-
----
-
 ## 📦 Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/UNISTORE.git
-````
-
-2. Open `index.html` in your browser.
+1. Open `index.html` in your browser.
    *(No server required – runs on any modern browser)*
 
 ---
