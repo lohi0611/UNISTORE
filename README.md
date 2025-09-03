@@ -1,10 +1,4 @@
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lohi0611/UNISTORE/main/assets/unistore-banner.png" alt="UniStore Banner" width="100%">
-</p>
-```
 # 🛍️ UniStore – Responsive E-Commerce Website
 
 UniStore is a fully responsive **e-commerce website** built with **HTML, CSS, and JavaScript**.  
@@ -14,17 +8,15 @@ It provides a simple online store experience with product listings, a shopping c
 
 ## 🚀 Features
 - 📱 **Responsive Design** – Works on desktop, tablet, and mobile.  
-- 🛒 **Dynamic Product Listings** – Includes category checkboxes & radio button filters.  
-- 📦 **Shopping Cart** – Add/remove products dynamically with JavaScript.  
+- 📦 **Dynamic Product Listings** – Includes category checkboxes & radio button filters.  
+- 🛒 **Shopping Cart** – Add/remove products dynamically with JavaScript.  
 - 📝 **Order Form** – Collects user details and confirms purchase.  
 - 👤 **User Authentication Pages** – Sign-in and sign-up forms.  
 - 📚 **School Supplies Store** – Books, bags, shoes, and more.  
 - 💬 **Review Section** – Displays sample customer feedback.  
-```
----
 
+---
 ## 🗂️ Project Structure
-```
 ```
 UNISTORE/
 │── index.html          # Homepage
@@ -66,6 +58,5 @@ UNISTORE/
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use and modify.
+Feel free to use and modify.
 
-```
